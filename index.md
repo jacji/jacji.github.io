@@ -19,6 +19,6 @@ My GitHub page is http://github.com/jacji.
 
     diosiosflslfkj
 
-  * Lab 1-12
+* Lab 1-12
  
     oijidawfojwgj
