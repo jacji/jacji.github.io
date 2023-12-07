@@ -8,17 +8,19 @@ My GitHub page is http://github.com/jacji.
 
 ### CPSC 120
 
+* Lab 1
+
+    Lab 1, Part 1 was a historical moment where I learn C++ for the first time.
+    "Hello World" is a common thing that you first learn computer science in all languages.
+    It's an introduction that shows us the world of coding.
+
+* Lab 6
+
+    Lab 6, Part 1 was interesting because we coded about sandwiches. We would 
+    put different types of Protein, Bread, and Condiment to create a sandwich. 
+
 * Lab 7
-
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
-
-* Lab 1-12
-
-    diosiosflslfkj
-
-* Lab 1-12
  
-    oijidawfojwgj
+    Lab 7, Part 2 was one of my favorites because I love playing BlackJack with
+    my friends and with this lab, I was able to understand the functions and values
+    of BlackJack in coding
